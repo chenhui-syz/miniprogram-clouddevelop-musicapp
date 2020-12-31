@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  background-color: #fff;
+  height: 100rpx;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+  box-sizing: border-box;
+}
+
+.header .icon-public {
+  font-size: 48rpx;
+}
+
+.publish-container {
+  width: 67rpx;
+  height: 67rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-container{
+  flex: 1;
+}
+
+.blog-list{
+  margin-top: 120rpx;
+}
+
+.blog-panel{
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  
+}

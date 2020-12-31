@@ -1,0 +1,38 @@
+page{
+  background-color: #f1f1f1;
+}
+.profile-header{
+  background-color: rgba(212, 60, 51, 1);
+  height: 480rpx;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  font-weight: 300;
+  text-shadow: 0 0 3px rgba(0, 0, 0, .3);
+}
+
+.avatar-url{
+  width: 200rpx;
+  height: 200rpx;
+  display: block;
+  overflow: hidden;
+  border: 6rpx solid #fff;
+  border-radius: 50%;
+}
+
+.nav{
+  width: 640rpx;
+  margin: 20rpx auto;
+  border:1rpx solid #ccc;
+  
+}
+.content{
+  height: 120rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1rpx solid #ccc;
+}
+

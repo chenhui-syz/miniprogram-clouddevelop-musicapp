@@ -1,0 +1,101 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"appid": "wx5857abfb171ff81b",
+	"projectname": "00004-miniprog",
+	"libVersion": "2.9.2",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 6,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "musiclist",
+					"pathName": "pages/musiclist/musiclist",
+					"query": "playlistid=2987308098",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/blog/blog",
+					"pathName": "pages/blog/blog",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/blog/blog",
+					"pathName": "pages/blog/blog",
+					"query": "nickName= \"伴雨长歌\"&avatarUrl:=\"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erUnrWo0…SRZ3Wtax8olJic8rVjYlwGvls3oD3ssATXF1F0UVKhbvw/132\"",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/blog-edit/blog-edit",
+					"pathName": "pages/blog-edit/blog-edit",
+					"query": "nickName= \"伴雨长歌\"&avatarUrl:=\"https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erUnrWo0…SRZ3Wtax8olJic8rVjYlwGvls3oD3ssATXF1F0UVKhbvw/132\"",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/playlist",
+					"pathName": "pages/blog/blog",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/blog/blog",
+					"pathName": "pages/blog/blog",
+					"scene": null
+				}
+			]
+		}
+	}
+}
